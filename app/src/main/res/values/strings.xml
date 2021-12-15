@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleMVVM</string>
+    <string name="generate_button_text">Generate</string>
+</resources>
